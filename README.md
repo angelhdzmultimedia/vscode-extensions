@@ -54,4 +54,4 @@
 - zhuangtongfa.material-theme
 - RobbOwen.synthwave-vscode
 
-# If you know an extension I'm missing, for my TypeScript/Python/Node/Vue development, please let me know in one of my YouTube videos comments section, or here in my Github repo! Thank you! 😊🤝
+# If you know an extension I'm missing, for my TypeScript/Python/Node/Vue/Nest/Nuxt development, please let me know in one of my YouTube videos comments section, or here in my Github repo! Thank you! 😊🤝
